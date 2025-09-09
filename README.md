@@ -14,6 +14,8 @@ Welcome to my GitHub profile.
 - [CYBR3000](https://github.com/manya-k/CYBR3000)
 - [csse3200](https://github.com/manya-k/csse3200)
 
+## Stats
+![Manya's GitHub stats](https://github-readme-stats.vercel.app/api?username=manya-k&show_icons=true)
 ## 🛠️ Skills
 - Python, Java, C++, C
 - Web development (HTML, CSS, JavaScript, React)
