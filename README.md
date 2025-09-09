@@ -1,15 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Manya! 👋
 
-<!--
-**manya-k/manya-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Currently studying at UQ (University of Queensland)
+- 💻 Passionate about software engineering, data science, and cybersecurity
+- 🌱 Always learning something new in tech!
 
-- 🔭 I’m currently working on university projects
-- 🌱 I’m currently studying Software Engineering 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: manyakhosla05@gmail.com 
-- 😄 Pronouns: she/her
--->
+## 📚 Top Repositories
+- [DECO3801---Data-Busters](https://github.com/manya-k/DECO3801---Data-Busters)
+- [COMP3506](https://github.com/manya-k/COMP3506)
+- [coms3200-A1](https://github.com/manya-k/coms3200)
+- [CYBR3000](https://github.com/manya-k/CYBR3000)
+- [csse3200](https://github.com/manya-k/csse3200)
+
+## 🛠️ Skills
+- Python, Java, C++, C
+- Web development (HTML, CSS, JavaScript, React)
+- Data analysis & visualization
+- Cybersecurity fundamentals
+
+## 📬 Connect With Me
+- Email: manya.k@example.com
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/manya-khosla/)
+
+---
+
+Thanks for visiting! 😊
